@@ -1,0 +1,1 @@
+This is for homework 3 in FDSfE 2022. This homework helped me visualize testing the hypothesis. I faced a few challenges in this assignment and I asked Rodiat for help in understanding clearly what I had to do for data wrangling
