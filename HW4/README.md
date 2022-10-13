@@ -1,0 +1,1 @@
+Homework 4 deals with linear progression. Tuesday's class(10/11) was instrumental in my understanding the purpose of this. I learned the importance of linear regression is to be able to predict future data and how to pay attention to the adjusted r squared value to determine if a dataframe is possibly overfit.
