@@ -1,0 +1,1 @@
+In this homework, I worked alone to carry out text analysis used in detecting polarity of phrases within a dataset; applied a function to take the review of the Sentiment columns and derive the sentiment value. Plotting the mean against the sentiment column values, error bars were used to visualize the precision and variation of these values.
